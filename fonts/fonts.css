@@ -1,0 +1,20 @@
+@font-face {
+    font-family: Poppins;
+    src: url('./Poppins-Bold.ttf') format('ttf');
+    font-weight: 700;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: Oswald;
+    src: url('./Oswald-Bold.ttf') format('ttf');
+    font-weight: 700;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: Oswald;
+    src: url('./Poppins-Regular.ttf') format('ttf');
+    font-weight: 400;
+    font-display: swap;
+}
